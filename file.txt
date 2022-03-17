@@ -1,3 +1,11 @@
 n Python, names that start with underscores are semantically not a part of the public API, and it’s a best practice for users to avoid using them. (Except when it’s compulsory.)
 
 Since type gives us an object class, we should avoid getting __class__ directly.
+
+n Python, names that start with underscores are semantically not a part of the public API, and it’s a best practice for users to avoid using them. (Except when it’s compulsory.)
+
+Since type gives us an object class, we should avoid getting __class__ directly.
+
+n Python, names that start with underscores are semantically not a part of the public API, and it’s a best practice for users to avoid using them. (Except when it’s compulsory.)
+
+Since type gives us an object class, we should avoid getting __class__ directly.
